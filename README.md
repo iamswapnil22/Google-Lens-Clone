@@ -10,6 +10,6 @@ Object Detection
  </ul>
  
  <h3>SCREENSHOTS</h3>
- <p align="center"><img src="https://i.imgur.com/nBDRyxf.gif" height="500" alt="alt text" title="demo"></p> |  <p align="center"><img src="https://i.imgur.com/VJXU0xD.gif" height="500" alt="alt text" title="demo"></p>
+ <p align="center"><img src="/image.png" height="500" alt="alt text" title="demo"></p><p align="center"><img src="https://i.imgur.com/VJXU0xD.gif" height="500" alt="alt text" title="demo"></p>
  
  

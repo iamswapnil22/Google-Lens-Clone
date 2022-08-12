@@ -10,7 +10,7 @@ Object Detection
  </ul>
  
  <h3>SCREENSHOTS</h3>
- <p align="center"><img src="/abc1.png" height="500"></p>
- <p align="center"><img src="/abc.png" height="500"></p>
+ <p align="middle"><img src="/abc1.png" height="500">
+ <img src="/abc.png" height="500"></p>
  
  
